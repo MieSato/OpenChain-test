@@ -22,10 +22,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Curriculum</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170308T091240Z" creationid="MiekoSato" creationdate="20170308T091240Z">
+        <seg>カリキュラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Definitions</seg>
       </tuv>
       <tuv lang="JA" changeid="MiekoSato" changedate="20170307T165105Z" creationid="MiekoSato" creationdate="20170307T165105Z">
         <seg>定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Training Reference Deck, Version 2 FINAL DRAFT&lt;t0/&gt;Designed for the &lt;t1/&gt;OpenChain Specification 1.0</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170308T091446Z" creationid="MiekoSato" creationdate="20170308T091446Z">
+        <seg>OpenChain Specification 1.0 向け FOSS Training Reference Deck 第 2 版最終ドラフト</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Released under the &lt;t0/&gt;Creative Commons CC0 1.0 Universal&lt;t1/&gt; license.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170308T091620Z" creationid="MiekoSato" creationdate="20170308T091620Z">
+        <seg>&lt;t0/&gt;Creative Commons CC0 1.0 Universal&lt;t1/&gt; ライセンスのもとで公開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Requirements</seg>
       </tuv>
       <tuv lang="JA" changeid="MiekoSato" changedate="20170307T165156Z" creationid="MiekoSato" creationdate="20170307T165156Z">
@@ -66,6 +90,14 @@
       </tuv>
       <tuv lang="JA" changeid="MiekoSato" changedate="20170307T165049Z" creationid="MiekoSato" creationdate="20170307T165049Z">
         <seg>第 1 版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to the OpenChain Curriculum Slides.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170308T091817Z" creationid="MiekoSato" creationdate="20170308T091817Z">
+        <seg>OpenChain カリキュラム スライドへようこそ。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
