@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OpenChain Conformance Specification 1.0</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170308T101324Z" creationid="MiekoSato" creationdate="20170308T101324Z">
+        <seg>OpenChain 適合仕様書 1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Released under the &lt;t0/&gt;Creative Commons CC0 1.0 Universal&lt;t1/&gt; license.</seg>
       </tuv>
       <tuv lang="JA" changeid="MiekoSato" changedate="20170308T091620Z" creationid="MiekoSato" creationdate="20170308T091620Z">
@@ -88,8 +96,8 @@
       <tuv lang="EN-US">
         <seg>Version 1.0</seg>
       </tuv>
-      <tuv lang="JA" changeid="MiekoSato" changedate="20170307T165049Z" creationid="MiekoSato" creationdate="20170307T165049Z">
-        <seg>第 1 版</seg>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170308T101339Z" creationid="MiekoSato" creationdate="20170307T165049Z">
+        <seg>Version 1.0</seg>
       </tuv>
     </tu>
     <tu>
