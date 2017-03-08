@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A documented procedure exists that makes all Software Staff aware of the existence of the FOSS policy (e.g., via training, internal wiki, or other practical communication method).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170308T022951Z" creationid="MiekoSato" creationdate="20170308T022951Z">
+        <seg>A documented procedure exists that makes all Software Staff aware of the existence of the FOSS policy (e.g., via training, internal wiki, or other practical communication method).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170307T165055Z" creationid="MiekoSato" creationdate="20170307T165055Z">
+        <seg>もくじ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Curriculum</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170308T091240Z" creationid="MiekoSato" creationdate="20170308T091240Z">
+        <seg>カリキュラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Definitions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170307T165105Z" creationid="MiekoSato" creationdate="20170307T165105Z">
+        <seg>定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Training Reference Deck, Version 2 FINAL DRAFTDesigned for the OpenChain Specification 1.0</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170308T091446Z" creationid="MiekoSato" creationdate="20170308T091446Z">
+        <seg>OpenChain Specification 1.0 向け FOSS Training Reference Deck 第 2 版最終ドラフト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>G1: Know Your FOSS Responsibilities</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170307T165421Z" creationid="MiekoSato" creationdate="20170307T165421Z">
+        <seg>G1: Know Your FOSS Responsibilities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170307T165100Z" creationid="MiekoSato" creationdate="20170307T165100Z">
+        <seg>はじめに</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenChain Conformance Specification</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170307T165034Z" creationid="MiekoSato" creationdate="20170307T165034Z">
+        <seg>OpenChain 適合仕様書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Released under the Creative Commons CC0 1.0 Universal license.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170308T091620Z" creationid="MiekoSato" creationdate="20170308T091620Z">
+        <seg>Creative Commons CC0 1.0 Universal ライセンスのもとで公開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170307T165156Z" creationid="MiekoSato" creationdate="20170307T165156Z">
+        <seg>要件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version 1.0</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170307T165049Z" creationid="MiekoSato" creationdate="20170307T165049Z">
+        <seg>第 1 版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to the OpenChain Curriculum Slides.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="MiekoSato" changedate="20170308T091817Z" creationid="MiekoSato" creationdate="20170308T091817Z">
+        <seg>OpenChain カリキュラム スライドへようこそ。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
